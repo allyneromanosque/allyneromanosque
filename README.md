@@ -1,13 +1,13 @@
 ## Olá 👋🏾 sou Allyne Romanosque 😊
 ___
 ___
-### 👩🏾‍💻 - _Developer web em formação._
-### 👩🏾‍🎓 - _Bacharel em Direito._
-### 🌎 - _Mestranda em Direito Internacional Privado._
-### 👅  - _Bilingue_ - _Português_ 🇧🇷 - _Español_ 🇻🇪
-### 📧 - _Como encontrar-me:_ <allyneromanosque@gmail.com>
+👩🏾‍💻 - _Developer web em formação._
+👩🏾‍🎓 - _Bacharel em Direito._
+🌎 - _Mestranda em Direito Internacional Privado._
+👅  - _Bilingue_ - _Português_ 🇧🇷 - _Español_ 🇻🇪
+📧 - _Como encontrar-me:_ <allyneromanosque@gmail.com>
 ___
-### * _Tecnologias em aprendizagem_
+* _Tecnologias em aprendizagem_
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/> CSS3 |
@@ -18,7 +18,7 @@ ___
 </p>
 
 ___
-### * _Siga-me_ 
+* _Siga-me_ 
 
 <a href="https://twitter.com/a_romanosque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="allyneromanosque" height="20" width="20" /></a> | 
 <a href="https://www.linkedin.com/in/allyneromanosque/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="allyneromanosque" height="20" width="20" /></a> |
