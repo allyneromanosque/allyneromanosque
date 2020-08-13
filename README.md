@@ -2,9 +2,13 @@
 ___
 ___
 👩🏾‍💻 - _Developer web em formação._
+
 👩🏾‍🎓 - _Bacharel em Direito._
+
 🌎 - _Mestranda em Direito Internacional Privado._
+
 👅  - _Bilingue_ - _Português_ 🇧🇷 - _Español_ 🇻🇪
+
 📧 - _Como encontrar-me:_ <allyneromanosque@gmail.com>
 ___
 * _Tecnologias em aprendizagem_
